@@ -1,4 +1,4 @@
-# A012 - Condicionais I
+# Condicionais I - Exercícios
 
 ### Setup do projeto no Git
 

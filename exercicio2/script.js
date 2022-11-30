@@ -1,5 +1,5 @@
 let idade;
-let isMaiorIdade;
+let isTerminouEnsinoMedio;
 let isCursandoOutraFaculdade;
 
 if(){
